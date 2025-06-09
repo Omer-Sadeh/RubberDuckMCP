@@ -2,7 +2,7 @@
 
 ## Description
 
-**Rubber Duck MCP** is a Minimal Command Protocol (MCP) tool that brings the power of [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to your AI development environment. Rubber duck debugging is a proven technique in software engineering, where articulating a problem in natural language—often to an inanimate object like a rubber duck—can illuminate solutions and clarify thought processes. This method, first popularized in _The Pragmatic Programmer_ (Hunt & Thomas, 1999), is widely recognized for its effectiveness in:
+**Rubber Duck MCP** is a Model Context Protocol (MCP) tool that brings the power of [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) to your AI development environment. Rubber duck debugging is a proven technique in software engineering, where articulating a problem in natural language—often to an inanimate object like a rubber duck—can illuminate solutions and clarify thought processes. This method, first popularized in _The Pragmatic Programmer_ (Hunt & Thomas, 1999), is widely recognized for its effectiveness in:
 
 - Revealing hidden assumptions and logical errors
 - Encouraging step-by-step reasoning
