@@ -6,21 +6,21 @@ mcp = FastMCP("Rubber Duck")
 
 # List of quack responses
 QUACK_RESPONSES = [
-    "Quack! 🦆",
-    "Quaaaaaack! 🦆✨",
-    "*thoughtful quack* 🦆🤔",
-    "Quack quack! 🦆💡",
-    "*wise quack* 🦆🎓",
-    "Quackity quack! 🦆🎉",
-    "*understanding quack* 🦆💭",
-    "Quack... quack quack! 🦆🌟",
-    "*encouraging quack* 🦆👍",
-    "Quaaack! *nods sagely* 🦆✨",
-    "*contemplative quack* 🦆🧘",
-    "Quack! *tilts head* 🦆❓",
-    "*affirmative quack* 🦆✅",
-    "Quackquackquack! 🦆🚀",
-    "*sympathetic quack* 🦆💙"
+    "Quack!",
+    "Quaaaaaack!",
+    "*thoughtful quack*",
+    "Quack quack!",
+    "*wise quack*",
+    "Quackity quack!",
+    "*understanding quack*",
+    "Quack... quack quack!",
+    "*encouraging quack*",
+    "Quaaack! *nods sagely*",
+    "*contemplative quack*",
+    "Quack! *tilts head*",
+    "*affirmative quack*",
+    "Quackquackquack!",
+    "*sympathetic quack*"
 ]
 
 @mcp.tool()
